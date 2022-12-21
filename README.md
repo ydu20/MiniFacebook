@@ -6,8 +6,8 @@
 Web app that emulates the functionalities of Facebook, such as posts, news feed, and chat. Built together with Nick K., Maddie D., and Arnav G., using React for frontend and Node.js for backend.
 
 Version requirements:
-- `npm`: 
-- `node`:
+- `npm`: 6.14.4 
+- `node`: 14.0.0
 
 To run:
 1. cd into frontend
