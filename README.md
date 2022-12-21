@@ -1,7 +1,7 @@
 # MiniFacebook
 
-![Alt text](UI1.png?raw=true "Posts")
-![Alt text](UI2.png?raw=true "Chat")
+![Alt text](Home\ Page.png?raw=true "Posts")
+![Alt text](Chat.png?raw=true "Chat")
 
 Web app that emulates the functionalities of Facebook, such as posts, news feed, and chat. Built together with Nick K., Maddie D., and Arnav G., using React for frontend and Node.js for backend.
 
